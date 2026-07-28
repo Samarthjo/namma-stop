@@ -1,11 +1,14 @@
-const CACHE_NAME = "namma-stop-v2";
+const CACHE_NAME = "namma-stop-v3";
 const ASSETS = [
   "./",
   "./index.html",
   "./favicon.svg",
   "./styles.css",
   "./app.js",
-  "./manifest.webmanifest"
+  "./manifest.webmanifest",
+  "./icon-192.png",
+  "./icon-512.png",
+  "./icon-512-maskable.png"
 ];
 
 self.addEventListener("install", (event) => {

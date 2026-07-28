@@ -9,10 +9,22 @@
   "orientation": "portrait",
   "icons": [
     {
-      "src": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 192 192'%3E%3Crect width='192' height='192' rx='36' fill='%235f0468'/%3E%3Cpath d='M55 58h82c14 0 25 11 25 25v34c0 14-11 25-25 25H55c-14 0-25-11-25-25V83c0-14 11-25 25-25Z' fill='%23fff8e8'/%3E%3Cpath d='M64 73h64c7 0 13 6 13 13v19H51V86c0-7 6-13 13-13Z' fill='%23dbf7ef'/%3E%3Ccircle cx='69' cy='121' r='9' fill='%235f0468'/%3E%3Ccircle cx='123' cy='121' r='9' fill='%235f0468'/%3E%3Cpath d='M68 153h56' stroke='%23ffb703' stroke-width='10' stroke-linecap='round'/%3E%3C/svg%3E",
+      "src": "./icon-192.png",
       "sizes": "192x192",
-      "type": "image/svg+xml",
+      "type": "image/png",
       "purpose": "any"
+    },
+    {
+      "src": "./icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./icon-512-maskable.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
     }
   ]
 }
